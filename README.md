@@ -7,4 +7,4 @@
 Посилання - https://classroom.github.com/a/WQFmQwJk
 
 ## Лабораторна робота 3. Інкапсуляція. Знайомство з мовою моделювання UML
-Посилання - (посилання)[https://classroom.github.com/a/QXrVsxj_]
+Посилання - [посилання](https://classroom.github.com/a/QXrVsxj_)
