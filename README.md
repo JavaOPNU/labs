@@ -23,3 +23,8 @@
 
 ## Лабораторна робота 8. Узагальнене програмування
 Посилання - https://classroom.github.com/a/4Cn9pQJj
+
+## Лабораторна робота 9. Колекції в Java. Списки та черги.
+Посилання - https://classroom.github.com/a/4EdBGa1C
+
+
