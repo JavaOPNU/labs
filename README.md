@@ -27,4 +27,5 @@
 ## Лабораторна робота 9. Колекції в Java. Списки та черги.
 Посилання - https://classroom.github.com/a/4EdBGa1C
 
-
+## Лабораторна робота 10. Колекції в Java. Множини та відображення.
+Посилання - https://classroom.github.com/a/rIijf--A
