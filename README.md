@@ -32,3 +32,6 @@
 
 ## Лабораторна робота 11. Патерн Ітератор. Потоки даних в Java.
 Посилання - https://classroom.github.com/a/QrKuPfcn
+
+## Лабораторна робота 12. Механізм виключень в Java.
+Посилання - https://classroom.github.com/a/BTMs4h4t
