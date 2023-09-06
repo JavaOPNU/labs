@@ -2,7 +2,7 @@
 
 ## Лабораторна робота 1. Базовий синтаксис Java
 
-Посилання - https://classroom.github.com/a/qpkaELwL
+Посилання - https://classroom.github.com/a/JGw6GfWa
 
 ## Лабораторна робота 2. Створення класів та об'єктів
 
