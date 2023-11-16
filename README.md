@@ -37,3 +37,5 @@ https://classroom.github.com/a/jfgIP77d
 https://classroom.github.com/a/HPddJKz0
 
 ## Лабораторна робота 10. Механізм виключень в Java.
+
+https://classroom.github.com/a/ZcVxuHvm
