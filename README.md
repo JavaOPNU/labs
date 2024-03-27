@@ -4,6 +4,8 @@
 
 Лабораторна робота 1. Розробка простого RESTful веб-сервісу за допомогою фреймворку Java Spring. Посилання - https://classroom.github.com/a/OpQrI6L9
 
+Лабораторна робота 2. Інтеграція СУБД у веб-сервіс Spring. Технологія ORM. Посилання - https://classroom.github.com/a/OpQrI6L9
+
 
 ## Перший семестр
 
