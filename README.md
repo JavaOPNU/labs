@@ -6,6 +6,7 @@
 
 Лабораторна робота 2. Інтеграція СУБД у веб-сервіс Spring. Технологія ORM. Посилання - https://classroom.github.com/a/gxyb0Rbi
 
+Лабораторна робота 3. Впровадження журналювання за допомогою Spring AOP. Посилання - https://classroom.github.com/a/PX1WH8TN
 
 ## Перший семестр
 
